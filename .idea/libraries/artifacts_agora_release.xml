@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="artifacts:agora-release">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/agora-release.aar/90b8b8aa8f44d45a84dd602761e7a29d/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/agora-release.aar/90b8b8aa8f44d45a84dd602761e7a29d/jars/libs/agora-rtc-sdk.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/agora-release.aar/90b8b8aa8f44d45a84dd602761e7a29d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

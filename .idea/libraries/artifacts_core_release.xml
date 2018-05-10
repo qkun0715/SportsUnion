@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:core-release">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-release.aar/a22966aecb81424c0553284ce23605eb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-release.aar/a22966aecb81424c0553284ce23605eb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
