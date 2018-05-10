@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\OpenSource\\SportsUnion\\calendarview\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\OpenSource\\SportsUnionGit\\calendarview\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\a326061c7df1aba673e7a58c7ab95e57\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "E:\\OpenSource\\SportsUnion\\calendarview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "source": "E:\\OpenSource\\SportsUnionGit\\calendarview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "from": {
                         "startLines": "11",
                         "startColumns": "4",

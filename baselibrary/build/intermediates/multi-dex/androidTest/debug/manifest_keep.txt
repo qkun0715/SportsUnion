@@ -1,3 +1,3 @@
-# Referenced at E:\OpenSource\SportsUnion\baselibrary\build\intermediates\manifest\androidTest\debug\AndroidManifest.xml:9
+# Referenced at E:\OpenSource\SportsUnionGit\baselibrary\build\intermediates\manifest\androidTest\debug\AndroidManifest.xml:9
 -keep class android.support.test.runner.AndroidJUnitRunner { <init>(...); }
 

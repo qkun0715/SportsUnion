@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="artifacts:lib_login-release">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib_login-release.aar/cb8cd590d138cf8880fb7f713f8e2c71/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib_login-release.aar/cb8cd590d138cf8880fb7f713f8e2c71/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib_login-release.aar/4bd3e7865821e2cdefebf6748b3eee29/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib_login-release.aar/4bd3e7865821e2cdefebf6748b3eee29/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

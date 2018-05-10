@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\OpenSource\\SportsUnion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "E:\\OpenSource\\SportsUnionGit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.1.aar\\399b26ac78e6dd9321bcb82cf7fb8c7c\\res\\values-v23\\values-v23.xml",

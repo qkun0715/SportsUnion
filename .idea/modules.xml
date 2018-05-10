@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SportsUnion.iml" filepath="$PROJECT_DIR$/SportsUnion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SportsUnionGit.iml" filepath="$PROJECT_DIR$/SportsUnionGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/agora-release/agora-release.iml" filepath="$PROJECT_DIR$/agora-release/agora-release.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/baselibrary/baselibrary.iml" filepath="$PROJECT_DIR$/baselibrary/baselibrary.iml" />

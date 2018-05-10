@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\OpenSource\\SportsUnion\\pickerdate\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "outputFile": "E:\\OpenSource\\SportsUnionGit\\pickerdate\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib_crop-1.0.0.aar\\f2b813c9481b40a8e8560ced1222d7f6\\res\\values-zh-rCN\\values-zh-rCN.xml",

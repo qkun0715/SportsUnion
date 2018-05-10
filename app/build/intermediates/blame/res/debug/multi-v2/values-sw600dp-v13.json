@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\OpenSource\\SportsUnion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "E:\\OpenSource\\SportsUnionGit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.1.aar\\3a9d21b8e987b51475e17452d14ad275\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

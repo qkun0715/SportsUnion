@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\OpenSource\\SportsUnion\\imgPicker\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-az\\values-az.xml",
+            "outputFile": "E:\\OpenSource\\SportsUnionGit\\imgPicker\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-az\\values-az.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\ec0713e4935e50dc170036bc55bdbe85\\res\\values-az\\values-az.xml",

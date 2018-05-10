@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\OpenSource\\SportsUnion\\chartlibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\OpenSource\\SportsUnionGit\\chartlibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\a326061c7df1aba673e7a58c7ab95e57\\res\\values\\values.xml",
@@ -23,6 +23,23 @@
                     }
                 },
                 {
+                    "source": "E:\\OpenSource\\SportsUnionGit\\chartlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "428",
+                        "startColumns": "4",
+                        "startOffsets": "38915",
+                        "endColumns": "49",
+                        "endOffsets": "38960"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\ec0713e4935e50dc170036bc55bdbe85\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,54,55,59,60,61",
@@ -39,23 +56,6 @@
                         "endLines": "50,51,340,341,342,343,344,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,377,378,384,385,389,390,391,392,398,430,1676,1680,1681,1685,1686,1823,1824",
                         "endColumns": "68,62,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,33,34,34,69,70,116,12,109,12,128,71,66",
                         "endOffsets": "3375,3438,33207,33275,33347,33417,33478,34323,34384,34446,34510,34572,34633,34701,34801,34861,34927,35000,35069,35126,35178,35240,35765,35841,36115,36150,36342,36376,36411,36446,36791,39084,121678,121879,121989,122190,122319,133217,133284"
-                    }
-                },
-                {
-                    "source": "E:\\OpenSource\\SportsUnion\\chartlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
-                    },
-                    "to": {
-                        "startLines": "428",
-                        "startColumns": "4",
-                        "startOffsets": "38915",
-                        "endColumns": "49",
-                        "endOffsets": "38960"
                     }
                 }
             ]
