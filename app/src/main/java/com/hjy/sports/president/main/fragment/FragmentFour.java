@@ -19,6 +19,7 @@ public class FragmentFour extends BaseFragment {
     @Override
     protected void baseInit() {
 
+
     }
 
     @Override
